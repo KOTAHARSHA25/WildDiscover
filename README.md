@@ -156,7 +156,6 @@ npm install <library-name>
   - API Ninjas Animal API
   - Pollinations.ai
   - Wikipedia API
-- **TensorFlow.js**: For running machine learning models.
 - **Axios**: For making HTTP requests.
 
 ---
