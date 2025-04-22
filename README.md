@@ -9,7 +9,6 @@ WildDiscover is a React Native application designed to help users identify flora
 - **Flora Identification**: Identify plants and get details like scientific name, family, habitat, and uses.
 - **Fauna Identification**: Recognize animals, birds, and insects with information about their diet, habitat, and conservation status.
 - **Landmark Identification**: Discover famous landmarks and learn about their history, architecture, and significance.
-- **Dark Mode Support**: Automatically adapts to your system's theme for a seamless user experience.
 - **Wikipedia Integration**: Provides links and summaries from Wikipedia for additional information.
 - **User-Friendly Interface**: Intuitive design for easy navigation and interaction.
 
