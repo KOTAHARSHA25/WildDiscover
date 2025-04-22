@@ -134,16 +134,16 @@ npm install <library-name>
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](./Images/Home.jpg)
+<img src="./Images/Home.jpg" alt="Home Screen" width="300">
 
 ### Flora Identification
-![Flora](./Images/Flora.jpg)
+<img src="./Images/Flora.jpg" alt="Flora Identification" width="300">
 
 ### Fauna Identification
-![Fauna](./Images/Fauna.jpg)
+<img src="./Images/Fauna.jpg" alt="Fauna Identification" width="300">
 
 ### Landmark Identification
-![Landmark](./Images/Landmark.jpg)
+<img src="./Images/Landmark.jpg" alt="Landmark Identification" width="300">
 
 ---
 

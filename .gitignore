@@ -36,7 +36,6 @@ yarn-error.*
 *.tsbuildinfo
 
 # Custom directories to ignore
-# Uncommented to allow pushing these folders
 api/
 assets/
 components/
